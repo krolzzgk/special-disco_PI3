@@ -13,11 +13,11 @@ public class Principal {
 
         for (int i = 0; i <= 10; i++) {
             if (i == 0 || i == 10) {
-                System.out.println("**********************");
+                System.out.println("************************");
             } else if (i == 5) {
-                System.out.println("*  Boa noite, mundo  *");
+                System.out.println("*   Boa noite, mundo   *");
             } else {
-                System.out.println("*                    *");
+                System.out.println("*                      *");
             }
 
         }
